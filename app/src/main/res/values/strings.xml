@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+
+    <string name="jokes_screen_error_title">Failed query</string>
+    <string name="jokes_screen_error_button_text">Retry</string>
+    <string name="jokes_screen_text_id">Joke #%1$d</string>
+</resources>
